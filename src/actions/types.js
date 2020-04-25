@@ -1,0 +1,10 @@
+export const GET_QUESTIONS = 'GET_QUESTIONS';
+export const GET_CATEGORY = 'GET_CATEGORY';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_QUESTIONS = 'SET_QUESTIONS';
+export const SET_STARTING = 'SET_STARTING';
+export const SET_SCORE = 'SET_SCORE';
+export const CLEAR_STATE = 'CLEAR_STATE';
+export const SET_ALERT = 'SET_ALERT';
+export const CLEAR_ALERT = 'CLEAR_ALERT';
+export const CLEAR_STARTING = 'CLEAR_STARTING';
