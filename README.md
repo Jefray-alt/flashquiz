@@ -1,6 +1,6 @@
+<h1>FlashQuiz</h1>
 A simple react app using Open Trivia API. The app lets you take quiz with different categories and show you your score.
 
-To run:
-<br/>
+<h3>To run:</h3>
 npm install <br/>
 npm start
