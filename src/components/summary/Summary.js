@@ -24,7 +24,6 @@ const Summary = ({
         if (ctr < (finalScore / number) * 100) {
           setCtr(ctr + 1);
         }
-        console.log(ctr);
       }, 10);
     }
     // eslint-disable-next-line

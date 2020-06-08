@@ -66,16 +66,15 @@ const Question = ({
 
     // Checks the input of the user
     if (choice === null) {
-      console.log('None Selected');
       setAlert('No choice selected!', 'bg-alert');
       setTimeout(() => {
         clearAlert();
       }, 5000);
     } else if (choice === decodeHTML(questions.results[ctr].correct_answer)) {
-      console.log('Correct');
+      clearAlert();
       setScore(score + 1);
-    } else if (choice !== decodeHTML(questions.results[ctr].correct_answer)) {
-      console.log('False');
+    } else {
+      clearAlert();
     }
 
     // controls the counter questions
