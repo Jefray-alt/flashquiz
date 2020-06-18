@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flashquiz/static/css/main.d24cbd79.chunk.css",
+    "main.js": "/flashquiz/static/js/main.ee119c48.chunk.js",
+    "main.js.map": "/flashquiz/static/js/main.ee119c48.chunk.js.map",
+    "runtime-main.js": "/flashquiz/static/js/runtime-main.e6ada979.js",
+    "runtime-main.js.map": "/flashquiz/static/js/runtime-main.e6ada979.js.map",
+    "static/js/2.167ca76e.chunk.js": "/flashquiz/static/js/2.167ca76e.chunk.js",
+    "static/js/2.167ca76e.chunk.js.map": "/flashquiz/static/js/2.167ca76e.chunk.js.map",
+    "index.html": "/flashquiz/index.html",
+    "precache-manifest.a6eed9e60d95e4799da6dc7173243870.js": "/flashquiz/precache-manifest.a6eed9e60d95e4799da6dc7173243870.js",
+    "service-worker.js": "/flashquiz/service-worker.js",
+    "static/css/main.d24cbd79.chunk.css.map": "/flashquiz/static/css/main.d24cbd79.chunk.css.map",
+    "static/js/2.167ca76e.chunk.js.LICENSE.txt": "/flashquiz/static/js/2.167ca76e.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/flashquiz/static/media/spinner.03181d9d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6ada979.js",
+    "static/js/2.167ca76e.chunk.js",
+    "static/css/main.d24cbd79.chunk.css",
+    "static/js/main.ee119c48.chunk.js"
+  ]
+}
